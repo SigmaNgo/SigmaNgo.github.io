@@ -1,6 +1,8 @@
 # SITE CONFIGURATION
 baseurl: "/"
 url: "https://sigma.ngo"
+title: Fundacja Sigma
+description: "Fundacja Sigma to polska, niezależna organizacja pozarządowa pracująca w obszarach nowych technologii, informacji publicznej, otwartości, e-administracji oraz rozwijania właściwych postaw obywatelskich wśród dzieci i młodzieży." # used by search engines
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
