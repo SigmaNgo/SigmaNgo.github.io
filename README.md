@@ -1,6 +1,6 @@
 # Sigma Foundation
 
-This is the website for http://www.sigma.ngo. Based on [Type on Strap](https://github.com/Sylhare/Type-on-Strap):
+This is the source for our website http://www.sigma.ngo. Based on [Type on Strap](https://github.com/Sylhare/Type-on-Strap):
 * Responsive design
 * Portfolio page for projects
 * Tags compability
