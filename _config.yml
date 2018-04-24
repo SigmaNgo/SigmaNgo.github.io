@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/sesprawdzam"
-url: "https://farmazon3000.github.io"
+baseurl: "/"
+url: "https://sigma.ngo"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
