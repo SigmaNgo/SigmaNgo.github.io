@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Polityka prywatności"
-permalink: /polityka-prywatnosci
+permalink: /polityka-prywatnosci/
 hide: true
 ---
 
