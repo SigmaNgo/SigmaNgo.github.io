@@ -8,14 +8,11 @@ hide: true
 Polityka prywatności
 1. Informacje ogólne
 Operatorem Serwisu www.sigma.ngo jest:
-
 Fundacja Sigma,
 Wrocław,
 Polska
 KRS 0000661008.
-
 Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniu w następujący sposób:
-
 Poprzez dobrowolnie wprowadzone w formularzach i newsletterze informacje,
 Poprzez zapisywanie w urządzeniach końcowych pliki cookie (tzw. „ciasteczka”).
 1. Informacje w formularzach i newsletterze
@@ -31,11 +28,11 @@ Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególn
 Cookies zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer.
 Cookies służą do tworzenia statystyk, które pomagają zrozumieć, w jaki sposób Użytkownicy Serwisu korzystają ze stron internetowych, co umożliwia ulepszanie ich struktury i zawartości. Mogą być także niezbędne do korzystania z niektórych funkcjonalności serwisu.
 Narzędzie do subskrypcji newslettera Fundacji Sigma wykorzystuje ciasteczko służące do zapisania adresu e-mail w bazie adresatów newslettera. Jest ono niezbędne do skutecznego zapisania się na listę adresatów newslettera.
-4. Zarządzanie plikami cookies – jak w praktyce wyrażać i cofać zgodę?
+1. Zarządzanie plikami cookies – jak w praktyce wyrażać i cofać zgodę?
 Jeśli Użytkownik nie chce otrzymywać plików cookies, może je blokować i ograniczać instalowanie poprzez zmienienie ustawienia przeglądarki lub za pomocą jednego z wielu dostępnych (darmowych) rozwiązań (np. Ghostery).
 Wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji Użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze Strony.
-5. Zmiany polityki prywatności
+1. Zmiany polityki prywatności
 Opisane zasady ochrony prywatności dotyczą jedynie serwisów znajdujących się pod domeną sigma.ngo. Fundacja Sigma nie odpowiada za politykę prywatności innych stron internetowych, do których linki znajdują się na Stronie.
 Możliwa jest zmiana polityki prywatności poprzez opublikowanie jej nowej wersji. Informacja o zmianach będzie zaznaczona w widoczny sposób.
-6. Kontakt i dodatkowe informacje
+1. Kontakt i dodatkowe informacje
 W razie dodatkowych pytań dotyczących ochrony prywatności, informacje uzyskać można pod adresem info@sigma.ngo.
