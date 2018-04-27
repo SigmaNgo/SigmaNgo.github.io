@@ -66,4 +66,28 @@
     <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
     -->
+    
+    <!-- EU Cookie Law -->
+    <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+          "palette": {
+            "popup": {
+              "background": "#141111"
+            },
+            "button": {
+              "background": "#ffc700"
+            }
+          },
+          "theme": "classic",
+          "content": {
+            "message": "Strona wykorzystuje ciasteczka.",
+            "dismiss": "Rozumiem!",
+            "link": "Dowiedz się więcej",
+            "href": "www.sigma.ngo/polityka-prywatnosci"
+          }
+        })});
+    </script>
 </head>
