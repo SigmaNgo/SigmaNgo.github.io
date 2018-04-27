@@ -2,7 +2,7 @@
 layout: page
 title: "Polityka prywatności"
 permalink: /polityka-prywatnosci.html
-hide: false
+hide: true
 ---
 
 Polityka prywatności
