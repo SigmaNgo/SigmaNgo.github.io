@@ -18,14 +18,14 @@ Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowan
 
 Poprzez dobrowolnie wprowadzone w formularzach i newsletterze informacje,
 Poprzez zapisywanie w urządzeniach końcowych pliki cookie (tzw. „ciasteczka”).
-2. Informacje w formularzach i newsletterze
+1. Informacje w formularzach i newsletterze
 Formularze i newsletter zbierają informacje podane dobrowolnie przez Użytkownika.
 Dane podane w formularzu są przetwarzane w celu wynikającym z funkcji konkretnego formularza, np. w celu zarejestrowania danych darczyńcy.
 Strona może zapisać informacje o parametrach połączenia (oznaczenie czasu, adres IP, typ przeglądarki, typ systemu operacyjnego oraz nazwa domeny, z której wchodzi Użytkownik).
 Subskrybenci newslettera mają prawo dostępu do swoich danych, ich poprawienia lub usunięcia. W tym celu należy przesłać wiadomość na adres: info@sigma.ngo lub kliknąć link rezygnacji w treści newslettera.
 Dane w formularzu nie są udostępniane podmiotom trzecim o ile nie są konieczne do technicznej realizacji niektórych usług, np. serwisów obsługujących płatności lub nie wynika to z obowiązku udzielania informacji zebranych przez Stronę upoważnionym organom na podstawie zgodnych z prawem żądań w zakresie wynikającym z danego żądania.
 Użytkownicy komentujący treści mogą korzystać ze Strony anonimowo, nie jest wymagana rejestracja.
-3. Informacja o plikach cookies
+1. Informacja o plikach cookies
 Strona korzysta z plików cookies.
 Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególności pliki tekstowe, które przechowywane są w urządzeniu końcowym Użytkownika Strony i przeznaczone są do korzystania ze Strony.
 Cookies zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer.
