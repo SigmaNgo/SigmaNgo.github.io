@@ -13,4 +13,4 @@ This is the source for our website http://www.sigma.ngo. Based on [Type on Strap
 
 ## License
 
-[The MIT License (MIT)](https://raw.githubusercontent.com/Sylhare/Type-on-Strap/master/LICENSE)
+[The MIT License (MIT)](https://raw.githubusercontent.com/SigmaNgo/SigmaNgo.github.io/master/LICENSE)
