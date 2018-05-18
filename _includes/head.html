@@ -54,7 +54,7 @@
         })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
         ga('create', '{{ site.theme_settings.google_analytics }}', 'auto');
-        ga('send', 'pageview');
+        ga('send', 'pageview', {'anonymizeIp': true});
 
     </script>
     {% endif %}
