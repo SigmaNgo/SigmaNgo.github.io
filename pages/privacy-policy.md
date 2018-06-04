@@ -5,7 +5,6 @@ permalink: /polityka-prywatnosci/
 hide: true
 ---
 
-# Polityka prywatności
 Operatorem Serwisu www.sigma.ngo jest:
 Fundacja Sigma,
 Wrocław,
