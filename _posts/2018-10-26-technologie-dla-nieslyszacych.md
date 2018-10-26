@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Technologie dla niesłyszących
-feature-img: "assets/img/pexels/desk-messy.jpeg"
+feature-img: "assets/img/pexels/Acousticon_-_1906_hearing_aid.jpg"
 thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
 tags: [tech4good, tech4deaf, Android]
 ---
