@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Technologie dla niesłyszących
-feature-img: "assets/img/pexels/hearingaid.jpg"
-thumbnail: "assets/img/thumbnails/desk-messy.jpeg"
+feature-img: "assets/img/pexels/hearingaidbig.jpg"
+thumbnail: "assets/img/thumbnails/hearingaidsmall.jpeg"
 tags: [tech4good, tech4deaf, Android]
 ---
 Ostatnio zainteresowaliśmy się co obecny stan technologii oferuje osobom z niedosłuchem. Oto do czego się dokopaliśmy.
