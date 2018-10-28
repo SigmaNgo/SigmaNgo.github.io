@@ -7,7 +7,7 @@ tags: [tech4good, tech4deaf, Android]
 ---
 To że ludzkość ma aparaty słuchowe (od dawna) i implanty ślimakowe (od niedawna) wiadomo. Co nowego się tu wydarzyło?
 
-## Protokół ASHA
+## Protokół "Audio Streaming for Hearing Aid"
 Google ogłosił nowy protokół do komunikacji smartfona z aparatem słuchowym. System operacyjny Android będzie go wspierał (nie wiadomo na razie nic o iOS). Protokół ten nazywa się [Hearing Aid Audio Support Using Bluetooth LE](https://source.android.com/devices/bluetooth/asha). Coś na ten temat można znaleźć [tutaj](https://www.hearingaidknow.com/made-for-android-coming-next-year) i [tutaj](https://www.theverge.com/circuitbreaker/2018/8/16/17701902/google-native-hearing-aid-support-android-gn-hearing).
 
 
